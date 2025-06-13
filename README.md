@@ -46,3 +46,32 @@ A web platform designed to transform traditional learning using XP systems, quiz
 
 ## 🚀 Getting Started
 
+⚙️ Functional Overview
+ 
+ The Game of Learning platform offers a wide array of interactive and gamified educational features designed to make learning fun, adaptive, and rewarding.
+
+🔍 User-Facing Properties
+
+- Onboarding & Authentication
+- Users can register/login securely via JWT.
+- Profile creation with XP tracking and progress visualization.
+- Lesson-Based Learning
+- Structured content broken into beginner modules.
+- Each lesson includes theory, examples, and practice challenges.
+- Completion earns XP and unlocks the next stage.
+- Gamification Logic
+- XP accumulation and level progression.
+- Reward system: badges, streak bonuses, and milestone unlocks.
+- Leaderboards (global and friend-based).
+- Mini-Games Integration
+- Trivia Quizzes: Timed challenges with instant scoring.
+- Memory Match: Visual recall activities to improve retention.
+- Drag & Drop Logic: Rearranging code snippets or concepts.
+- Adventure Mode (coming soon): Solve puzzles to progress through a gamified storyline.
+- Progress Monitoring
+- Dynamic dashboard showing:
+- XP levels and current stage
+- Badges earned
+- Lessons completed vs. total
+
+
