@@ -1,5 +1,5 @@
-# gamified
 # 🎮 EDU VENTURE
+# the best plat form to make learning easy
 
 **EDU VENTURE, gamified, and beginner-friendly!**  
 A web platform designed to transform traditional learning using XP systems, quizzes, badges, and engaging games.
