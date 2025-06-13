@@ -10,6 +10,9 @@ connectDB();
 // Middleware to parse JSON bodies
 app.use(express.json());
 
+const userRoutes = require('./routes/user');
+app.use('/api/users', userRoutes);
+
 // Basic route to test server
 app.get('/', (req, res) => {
   res.send('API is running...');
@@ -20,3 +23,4 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server started on port ${PORT}`);
 });
+
